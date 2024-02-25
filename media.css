@@ -1,0 +1,79 @@
+@media(max-width: 575px) {
+
+    .st-1 h1 {
+        font-size: 32px;
+        font-weight: 600;
+        color: #364146;
+        font-family: sans-serif;
+    }
+
+    .st-1 p {
+        font-size: 20px;
+        font-weight: 400;
+        color: #576971;
+        font-family: sans-serif;
+
+    }
+
+}
+
+@media(min-width: 576px) {
+    .st-1 h1 {
+        font-size: 32px;
+        font-weight: 600;
+        color: #364146;
+        font-family: sans-serif;
+    }
+
+    .st-1 p {
+        font-size: 20px;
+        font-weight: 400;
+        color: #576971;
+        font-family: sans-serif;
+
+    }
+
+}
+
+@media(min-width: 992px) {
+    .st-1 h1 {
+        font-size: 48px;
+        font-weight: 600;
+        color: #364146;
+        font-family: sans-serif;
+    }
+
+    .st-1 p {
+        font-size: 24px;
+        font-weight: 400;
+        color: #576971;
+        font-family: sans-serif;
+
+    }
+
+    .details {
+        padding: 0px 15px;
+    }
+
+}
+
+@media(min-width: 1200px) {
+    .st-1 {
+        padding-right: 140px;
+    }
+
+    .box {
+        padding: 60px 50px;
+
+    }
+
+    .img-3 {
+        margin-top: -10px !important;
+    }
+}
+
+@media(min-width: 1400px) {
+    .img-3 {
+        margin-top: -20px !important;
+    }
+}
